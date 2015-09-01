@@ -1,0 +1,6 @@
+#!/Users/Work_Mac/iron_yard/python_ta/homework/week_1/square_roots/.direnv/python-3.4.3/bin/python3
+
+from nbconvert.nbconvertapp import main
+
+if __name__ == '__main__':
+    main()
